@@ -1,2 +1,4 @@
 # hello-world
-learnig github
+learning github
+
+Hi this is the first commit change
